@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ciphercreations
+- 👋 Hi, I’m Arjun Krishna. This is my secondary account.
 - 👀 I’m interested in Front-end Development, IoT, Graphic Designing etc:
 - 🌱 I’m currently learning Node.js, Vue.js & Python
 - 💞️ I’m looking to collaborate on some Community-based Projects
